@@ -1,29 +1,29 @@
 {
-    "version": "0.12.0",
+    "version": "0.12.1-beta.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.12.0/manifest_windows_i386.zip",
+            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.12.1-beta.0/manifest_windows_i386.zip",
             "bin": [
                 "manifest.exe"
             ],
-            "hash": "663e64962dfc01aa046e0a171469ad1f4a532c0ae48d3b34f1bf81855bfa1d14"
+            "hash": "f4bf2cfafa29145ab41be71182162e61aa799cccf6003272371f4482197b436f"
         },
         "64bit": {
-            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.12.0/manifest_windows_x86_64.zip",
+            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.12.1-beta.0/manifest_windows_x86_64.zip",
             "bin": [
                 "manifest.exe"
             ],
-            "hash": "da36b95fd99ff933b9fb8784e0d09d09954641b012567be8f07c8a7d1c31c13f"
+            "hash": "b86d3de39fc2b6197e8b2350f4ee9aaa986d11c6f1a226eb670ac707aec44f7f"
         },
         "arm64": {
-            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.12.0/manifest_windows_arm64.zip",
+            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.12.1-beta.0/manifest_windows_arm64.zip",
             "bin": [
                 "manifest.exe"
             ],
-            "hash": "f4f82259274f29f74691b5e2f7b84c76ca9cb028e4dadaf2fc5e6389f6529567"
+            "hash": "0dadfc2dfb62a4fe10a623b6eb5ef4ede9f8fa5939ef36cdabbee38b9596f2b3"
         }
     },
     "homepage": "https://github.com/manifest-cyber/cli",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "description": "a toolkit for sbom generation, merge and publish to the Manifest platform"
 }
