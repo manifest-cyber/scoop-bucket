@@ -1,0 +1,29 @@
+{
+    "version": "0.13.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.13.0/manifest-cli_windows_i386.zip",
+            "bin": [
+                "manifest-cli.exe"
+            ],
+            "hash": "d29a8cd49278a4b5744988168019686a190ce408b73ac1d8416448e2949b8c11"
+        },
+        "64bit": {
+            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.13.0/manifest-cli_windows_x86_64.zip",
+            "bin": [
+                "manifest-cli.exe"
+            ],
+            "hash": "708bb6f3ac6bc278e8dd5a2492db84e22bcc092494bce169cfd7f7e86c870aad"
+        },
+        "arm64": {
+            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.13.0/manifest-cli_windows_arm64.zip",
+            "bin": [
+                "manifest-cli.exe"
+            ],
+            "hash": "4ac9d140d439ba2d6440038b909addb4d0316c549983cdc91dc0ca96c8598729"
+        }
+    },
+    "homepage": "https://github.com/manifest-cyber/cli",
+    "license": "Apache-2.0",
+    "description": "a toolkit for sbom generation, merge and publish to the Manifest platform"
+}
