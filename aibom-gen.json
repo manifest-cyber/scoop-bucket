@@ -6,21 +6,21 @@
             "bin": [
                 "aibom-gen.exe"
             ],
-            "hash": "d1de6001dcfd5f641d157bd6b88fe0545558e3a1d024625cce3e31b524b076a3"
+            "hash": "92271873117dac9c57fee20fa67460e144d9adc36e1ef4a70c50e84bc71f117a"
         },
         "64bit": {
             "url": "https://github.com/manifest-cyber/aibom-gen/releases/download/v0.0.1-alpha.0/aibom-gen_windows_x86_64.zip",
             "bin": [
                 "aibom-gen.exe"
             ],
-            "hash": "8dad6414a108d353692f5fefcabb4e2a076970fab9cb4aaece09b74571da16eb"
+            "hash": "bdc6916db8961b6d7bee3f3bfa451e6041f116a01f6d3081506eaf5da4f3f8fd"
         },
         "arm64": {
             "url": "https://github.com/manifest-cyber/aibom-gen/releases/download/v0.0.1-alpha.0/aibom-gen_windows_arm64.zip",
             "bin": [
                 "aibom-gen.exe"
             ],
-            "hash": "d59da9642cd55ad7f1aa35e081808844c049f2b3a0a0fcfa62607324570d730a"
+            "hash": "ccee415dc4974ac995e5c586943acd5a3f4753791d50f85b7f0a5f11d704f752"
         }
     },
     "homepage": "https://github.com/manifest-cyber/aibom-gen",
