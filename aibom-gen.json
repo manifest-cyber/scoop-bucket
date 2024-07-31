@@ -1,0 +1,29 @@
+{
+    "version": "0.0.1-alpha.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/manifest-cyber/aibom-gen/releases/download/v0.0.1-alpha.1/aibom-gen_windows_i386.zip",
+            "bin": [
+                "aibom-gen.exe"
+            ],
+            "hash": "0eb438988620a060f0f2b9db6a104e96f1ce16a1d66c3b5b23f2830ed8946210"
+        },
+        "64bit": {
+            "url": "https://github.com/manifest-cyber/aibom-gen/releases/download/v0.0.1-alpha.1/aibom-gen_windows_x86_64.zip",
+            "bin": [
+                "aibom-gen.exe"
+            ],
+            "hash": "96966f0d1264172f36c32ed832857ee67407cee6ba7263165a0be65477a8679d"
+        },
+        "arm64": {
+            "url": "https://github.com/manifest-cyber/aibom-gen/releases/download/v0.0.1-alpha.1/aibom-gen_windows_arm64.zip",
+            "bin": [
+                "aibom-gen.exe"
+            ],
+            "hash": "52515a43080b2f6c8f161e7e652e278e45e41870a1559c0d5fc28d157ea02efb"
+        }
+    },
+    "homepage": "https://github.com/manifest-cyber/aibom-gen",
+    "license": "Apache-2.0",
+    "description": "A tool to generate AIBOMs from AI models."
+}
