@@ -1,26 +1,26 @@
 {
-    "version": "0.15.1",
+    "version": "0.15.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.15.1/manifest-cli_windows_i386.zip",
+            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.15.2/manifest-cli_windows_i386.zip",
             "bin": [
                 "manifest-cli.exe"
             ],
-            "hash": "de7d857ef2d723f575828c9dd2ab2381819cc6944d9dbfa5de261ba0839f8564"
+            "hash": "2f7e3f3c6f5efe2177c99ab47d9935d5f3695c8c245f954ae0ca84a21de3a2e2"
         },
         "64bit": {
-            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.15.1/manifest-cli_windows_x86_64.zip",
+            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.15.2/manifest-cli_windows_x86_64.zip",
             "bin": [
                 "manifest-cli.exe"
             ],
-            "hash": "e37f4d8f19bdc75968036823bbedd3c45c9031cba4aa3258179d92e9b282b75b"
+            "hash": "41effd57670220dcb83b11b16944ea33b40b113e993f46646c9c565cb4bfe28c"
         },
         "arm64": {
-            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.15.1/manifest-cli_windows_arm64.zip",
+            "url": "https://github.com/manifest-cyber/cli/releases/download/v0.15.2/manifest-cli_windows_arm64.zip",
             "bin": [
                 "manifest-cli.exe"
             ],
-            "hash": "cae857fd46ae621fa743e571b42d7207f645c3b740a22f063121943b237e4ae4"
+            "hash": "96eeb30b266a1b386b24004ab6985ebbffcc17ef71716d2c5aef1849c4e29e18"
         }
     },
     "homepage": "https://github.com/manifest-cyber/cli",
