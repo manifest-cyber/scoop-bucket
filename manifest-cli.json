@@ -6,21 +6,21 @@
             "bin": [
                 "manifest-cli.exe"
             ],
-            "hash": "2903c4c5061243702527ce1aa783ae40a48fe8db45e17082336005aa4727f51e"
+            "hash": "71c3431f920722a261c6cc2c2c5c4d725b3bea0bc5502f0d8288a76ed036cd70"
         },
         "64bit": {
             "url": "https://github.com/manifest-cyber/cli/releases/download/v0.16.0/manifest-cli_windows_x86_64.zip",
             "bin": [
                 "manifest-cli.exe"
             ],
-            "hash": "6a5d4e954737af1fa3164a3a1a7511fb6db7e043fb1428b51347df67729b5470"
+            "hash": "1ae022af3a9fea16443ab72359096f547cb72c8d987af9b63e1ae7eef4e11d15"
         },
         "arm64": {
             "url": "https://github.com/manifest-cyber/cli/releases/download/v0.16.0/manifest-cli_windows_arm64.zip",
             "bin": [
                 "manifest-cli.exe"
             ],
-            "hash": "0b5d57fd3eae8fc411c8413249d65b00d452e41b34d70b30852c90a9ced8a4a7"
+            "hash": "fdd1e9bd3b0026779ccf4230d95de79bc0653bde5385bd265361d24f7e1aaa30"
         }
     },
     "homepage": "https://github.com/manifest-cyber/cli",
