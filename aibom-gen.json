@@ -1,26 +1,26 @@
 {
-    "version": "0.0.1-alpha.1",
+    "version": "0.1.0-alpha.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/manifest-cyber/aibom-gen/releases/download/v0.0.1-alpha.1/aibom-gen_windows_i386.zip",
+            "url": "https://github.com/manifest-cyber/aibom-gen/releases/download/v0.1.0-alpha.0/aibom-gen_windows_i386.zip",
             "bin": [
                 "aibom-gen.exe"
             ],
-            "hash": "0eb438988620a060f0f2b9db6a104e96f1ce16a1d66c3b5b23f2830ed8946210"
+            "hash": "ef0ed1eeba712e8292889d516620bde004af9426dcb9842897cc66ac2e3d1134"
         },
         "64bit": {
-            "url": "https://github.com/manifest-cyber/aibom-gen/releases/download/v0.0.1-alpha.1/aibom-gen_windows_x86_64.zip",
+            "url": "https://github.com/manifest-cyber/aibom-gen/releases/download/v0.1.0-alpha.0/aibom-gen_windows_x86_64.zip",
             "bin": [
                 "aibom-gen.exe"
             ],
-            "hash": "96966f0d1264172f36c32ed832857ee67407cee6ba7263165a0be65477a8679d"
+            "hash": "525b01d00235e4f4e312590d62cef25d6fa672ed7de7b04e13ebe092ceb096cc"
         },
         "arm64": {
-            "url": "https://github.com/manifest-cyber/aibom-gen/releases/download/v0.0.1-alpha.1/aibom-gen_windows_arm64.zip",
+            "url": "https://github.com/manifest-cyber/aibom-gen/releases/download/v0.1.0-alpha.0/aibom-gen_windows_arm64.zip",
             "bin": [
                 "aibom-gen.exe"
             ],
-            "hash": "52515a43080b2f6c8f161e7e652e278e45e41870a1559c0d5fc28d157ea02efb"
+            "hash": "22d14fef451fd3509a2fa8cb34fa10d97198e9dbedc2568e165a1b4fd29a888d"
         }
     },
     "homepage": "https://github.com/manifest-cyber/aibom-gen",
