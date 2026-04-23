@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1-beta.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/manifest-cyber/mlbom-generator/releases/download/v0.0.1-beta.0/mlbom-generator_windows_amd64.zip",
+            "bin": [
+                "mlbom-generator.exe"
+            ],
+            "hash": "b3e91ac3e18f7091103ced66da87c27951bfbf73d52c44ae1e34ff61917c38ad"
+        },
+        "arm64": {
+            "url": "https://github.com/manifest-cyber/mlbom-generator/releases/download/v0.0.1-beta.0/mlbom-generator_windows_arm64.zip",
+            "bin": [
+                "mlbom-generator.exe"
+            ],
+            "hash": "dffb13735858612e3afb86de984701f4f84b225347d14bf8a515d773d753b34f"
+        }
+    },
+    "homepage": "https://github.com/manifest-cyber/mlbom-generator",
+    "license": "Apache-2.0",
+    "description": "A tool to generate MLBOMs from HuggingFace models."
+}
