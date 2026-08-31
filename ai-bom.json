@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1-beta.0",
+    "version": "0.0.1-beta.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/manifest-cyber/ai-bom/releases/download/v0.0.1-beta.0/ai-bom_windows_amd64.zip",
+            "url": "https://github.com/manifest-cyber/ai-bom/releases/download/v0.0.1-beta.1/ai-bom_windows_amd64.zip",
             "bin": [
                 "ai-bom.exe"
             ],
-            "hash": "538f5528656bcf93c4f915047b6812192bdc2e79bcb4047729c453989a009197"
+            "hash": "4371b8008de37863af6797a6f392d23fe1b3aa70e41bf5bdaed18a48b6e58501"
         },
         "arm64": {
-            "url": "https://github.com/manifest-cyber/ai-bom/releases/download/v0.0.1-beta.0/ai-bom_windows_arm64.zip",
+            "url": "https://github.com/manifest-cyber/ai-bom/releases/download/v0.0.1-beta.1/ai-bom_windows_arm64.zip",
             "bin": [
                 "ai-bom.exe"
             ],
-            "hash": "177da34bdee24718ea85a25a4a230b323bed6e90f3899cc76b9f530f4f79439d"
+            "hash": "a109ade27daba3eb6873fa676b323e9de8949b395a5f8d24c34b3d690db0353e"
         }
     },
     "homepage": "https://github.com/manifest-cyber/ai-bom",
